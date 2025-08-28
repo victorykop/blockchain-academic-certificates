@@ -44,7 +44,7 @@ To learn more about how selective disclosure and decentralized verifications wor
 
 **IMPORTANT NOTE:** The instructions for building this project are out of date. I'm unfortunately not in a position right now to test and update these instructions. If you're able to get the project up and running properly. a pull request to update the following instructions is appreciated! 
 
-Related Issue: [#4](https://github.com/TasinIshmam/blockchain-academic-certificates/issues/4) 
+Related Issue: [#4](https://github.com/victorukop/blockchain-academic-certificates/issues/4) 
 
 #### Prerequisites
 
@@ -63,7 +63,7 @@ In order to install the application, please make sure you have the following ins
 
 1) Clone the repo
     ```sh
-    git clone https://github.com/TasinIshmam/blockchain-academic-certificates.git
+    git clone https://github.com/victorukop/blockchain-academic-certificates.git
     ```
 2) Start the fabric test-network with couchdb
     ```sh
@@ -117,7 +117,7 @@ Make sure mongodb and fabric network are running in the background before starti
     ```
 
 
-Project Link: [https://github.com/TasinIshmam/blockchain-academic-certificates](https://github.com/TasinIshmam/blockchain-academic-certificates)
+Project Link: [https://github.com/victorukop/blockchain-academic-certificates](https://github.com/victorukop/blockchain-academic-certificates)
 
 
 
